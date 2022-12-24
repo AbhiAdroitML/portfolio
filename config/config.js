@@ -36,7 +36,7 @@ export const intro = {
 		},
 		{
 			title: "Resume",
-			link: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+			link: "https://drive.google.com/open?id=17POQLu-2GZhW8vvDK6VuQ0z96FlgWDOs&authuser=abbajpai%40iu.edu&usp=drive_fs",
 			isPrimary: false,
 		},
 	],
