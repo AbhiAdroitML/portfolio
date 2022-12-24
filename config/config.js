@@ -53,13 +53,13 @@ export const work = {
 	title: "What I do",
 	cards: [
 		{
-			title: "Mobile App Development",
-			description: "I create pixel perfect iOS and Andriod apps using Flutter.",
+			title: "Data Science Solutions",
+			description: "Transforms business outcomes by envisioning and executing innovative analytics strategies<",
 			icons: null,
 		},
 		{
-			title: "Web Development",
-			description: "I create responsive static websites using Reactjs.",
+			title: "Machine Learning",
+			description: "Develop and deploy machine learning models",
 			icons: null,
 		}
 	],
@@ -69,40 +69,40 @@ export const projects = {
 	title: "Projects",
 	cards: [
 		{
-			title: "StarBook",
-			description: "A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.",
+			title: "Voice of Customers",
+			description: "A text mining application to understand the opinions of cellphone users in the US market",
 			icons: [
 				{
 					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/starbook-journal-ai-diary/id1552418289",
+					link: "https://github.com/AbhiAdroitML/grad_work/tree/main/voice_of_customer",
 				},
 				{
 					icon: faGithub,
-					link: "https://github.com/hashirshoaeb/star_book",
+					link: "https://github.com/AbhiAdroitML/grad_work/tree/main/voice_of_customer",
 				},
 			]
 		},
 		{
-			title: "QuranTalk",
-			description: "An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.",
+			title: "Machine Learning For Imbalanced Datasets",
+			description: "Predicting Company Bankruptcy",
 			icons: [
 				{
 					icon: faAppStore,
-					link: "https://apps.apple.com/us/app/qurantalk/id1563425149",
+					link: "https://github.com/AbhiAdroitML/grad_work/tree/main/imbalanced_dataset_ml",
 				},
 				{
 					icon: faGooglePlay,
-					link: "https://play.google.com/store/apps/details?id=com.ayahemotion.quran_talk",
+					link: "https://github.com/AbhiAdroitML/grad_work/tree/main/imbalanced_dataset_ml",
 				},
 			]
 		},
 		{
-			title: "Portfolio",
-			description: "A portfolio website template that helps you showcase your work, projects and skills as a software developer or freelancer.",
+			title: "Fraud Detection",
+			description: "A Network Analysis Approach to Detect Collusive Fraud in Procurement Proces",
 			icons: [
 				{
 					icon: faGithub,
-					link: "https://github.com/AbhiAdroitML/portfolio",
+					link: "https://github.com/AbhiAdroitML/grad_work/tree/main/fraud_detection",
 				},
 			]
 		},
@@ -111,7 +111,7 @@ export const projects = {
 
 export const contact = {
 	title: "Get in touch",
-	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at hashirshoaeb@gmail.com.",
+	description: "Coffee Chat! Please do not hesitate to schedule a meeting. Alternatively, feel free to reach out directly by email at abhinav.bajpai1@gmail.com.",
 	buttons: [
 		{
 			title: "Email Me",
@@ -129,27 +129,27 @@ export const contact = {
 // SEARCH ENGINE 
 export const SEO = {
 	// 50 - 60 char  
-	title: "Abhinav Bajpai | Computer Engineer | Flutter | Reactjs developer",
-	description: "I create mobile apps and static websites. I graduated from National University of Sciences and Technology (NUST) in 2020 with a degree in Computer Engineering.",
+	title: "Abhinav Bajpai | Data Science Solutions | ML Ops & AI Infrastructure Design | Strategic Decision Making",
+	description: "I am pursuing a Master of Science in Data Science from Indiana University - Bloomington.",
 	image: profile.src,
 }
 
 export const links = {
 	image: profile.src,
 	title: "@abhiadroit",
-	description: "Data Scientist | Flutter | Reactjs Developer",
+	description: "Data Science Solutions | ML Ops & AI Infrastructure Design | Strategic Decision Making | Stakeholder Management",
 	cards: [
 		{
 			title: "My website",
 			link: "https://abbajpai.pages.iu.edu",
 		},
 		{
-			title: "QuranTalk App",
-			link: "https://www.qurantalk.app/",
+			title: "Voice of Customers",
+			link: "https://github.com/AbhiAdroitML/grad_work/tree/main/voice_of_customer",
 		},
 		{
-			title: "StarBook App",
-			link: "https://starbook.dev/",
+			title: "Fraud Detection",
+			link: "https://github.com/AbhiAdroitML/grad_work/tree/main/fraud_detection",
 		},
 		{
 			title: "My GitHub",
