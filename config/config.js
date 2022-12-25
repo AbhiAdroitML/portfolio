@@ -1,7 +1,7 @@
 
 import profile from './profile.png';
-import { faAppStore, faGithub, faGooglePlay, faTeamspeak } from '@fortawesome/free-brands-svg-icons';
-import { faAutomobile, faFileText, faMicroscope, faProjectDiagram, faUserGroup } from '@fortawesome/free-solid-svg-icons';
+import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faFileText, faMicroscope } from '@fortawesome/free-solid-svg-icons';
 
 export const navigation = {
 	name: "Abhinav",
@@ -25,11 +25,9 @@ export const navigation = {
 	],
 }
 export const intro = {
-	title: "Hey, I'm Abhinav",
+	title: "Hey, I'm Abhinav Bajpai",
 	description: "Analytics leader with 12+ years of client service experience in diverse\
-	 industries across the analytics value chain. Proven track record of managing complex projects \
-	 and global teams in driving digital transformation, deploying analytics and intelligent \
-	 process automation delivering value to clients.",
+	 industries across the analytics value chain.",
 	image: profile.src,
 	buttons: [
 		{
@@ -48,14 +46,21 @@ export const intro = {
 export const about = {
 	title: "Who I am",
 	description: [
-		"Hi, my career spanning over 12 years has involved working on analytical projects of varying complexity and scale for \
-		clients in different industries. In my previous role as a Manager with Deloitte, I was part of \
-		model risk management team and mostly focused on developing and validating credit risk models \
-		for top banks in the world. Moreover, I have worked on data analytics projects related to \
-		Anti-Money Laundering, Cyber Risk, Safety Recall, Fraud Investigations, Portfolio Valuation \
-		and Working Capital Optimization. I am currently pursuing a full-time master's degree in Data Science at \
-		Indiana University - Bloomington. I am also collaborating with researchers at Lu Laboratory, \
-		developing high-performance computing workflows for their ongoing neuroscience research projects.",
+		"Thanks for stopping by. As a data science leader, I facilitate transformational business changes \
+		by developing tailor-made and value-adding machine learning (ML) and artificial intelligence (AI) \
+		solutions for enterprise problems. I pioneer innovative data science initiatives to optimize operational \
+		coherency and streamline frictionless business processes. Developing strong relationships with \
+		stakeholders, executive leadership, and teams at all levels is one of my strengths.",
+
+		"Previously, I managed Deloitte's Model Risk Management (MRM) team, developing and validating \
+		credit risk models for top banks. My experience also includes data science projects \
+		related to anti-money laundering, cybersecurity, safety recall, fraud investigation, portfolio \
+		valuation, and working capital optimization.",
+
+		"Currently, I am enrolled in a full-time Data Science master's program at Indiana \
+		University - Bloomington. In addition, I work with researchers at Lu Laboratory (Gill Center for \
+		Biomolecular Science) to develop high-performance computing workflows \
+		for their ongoing neuroscience research projects."
 	],
 }
 
